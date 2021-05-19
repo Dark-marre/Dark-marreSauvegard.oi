@@ -119,16 +119,16 @@ h3 {
 }
 /* *****************************AstuceDeSurvie******************************** */
 #AstuceDeSurvie {
-height: 1400px;
-background-color: #f1f2f6;
-padding: 1px 2%;
+    height: 1400px;
+    background-color: #f1f2f6;
+    padding: 1px 2%;
 }
 #AstuceDeSurvie h2 {
 
     padding-top: 60px;
 }
 #nourriture {
-background-image: url(media/20210331235059_1.JPG)
+    background-image: url(media/20210331235059_1.JPG)
 }
 #construction {
     background-image: url(media/20210331235629_1.JPG)
@@ -138,6 +138,20 @@ background-image: url(media/20210331235059_1.JPG)
 
 }
 #designeDeco {
-background-image: url(media/20210402104313_1.JPG)
+    background-image: url(media/20210402104313_1.JPG)
 
+}
+#AstuceDeSurvie li { 
+    margin: 65px 100px 0 100px;
+    height:226px;
+    width: 55%;
+    max-width: 550px;
+    float: left;
+    box-shadow: 6px 6px 28px -1px rgba(0, 0, 0, 0.75);
+}
+#AstuceDeSurvie p {
+width: 45px;
+width: 235px;
+float:right;
+margin: 50px -180px 0 0;
 }
