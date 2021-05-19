@@ -69,16 +69,41 @@ h1 {
     color:antiquewhite;
     font-size: 6em;
     margin-top: 100px;
+    text-shadow: 1px 3px 2px black;
 }
 #premiertrais {
     height: 1px;
     width: 25px;
     margin: -3px auto;
     background-color:#fffae1
+    box-shadow: 1px 3px 2px black;
+    
 }
-h3 { 
-text-align: center;
-color:antiquewhite
-font-size: 3em;
 
+h3 { 
+    text-align: center;
+    color:antiquewhite
+    font-size: 3em;
+    text-shadow: 1px 3px 2px black;
 }
+/* ********************************Presentation********************************** */
+#Presentation {
+background-color: #fffae1;
+padding: 10px 0px 100px 0;
+}
+#textIntro {
+    padding: 0px 20%;
+}
+#Presentation {
+display:flex;
+flex-wrap: wrap;
+justify-content:space-between;
+padding: 30px 10%;
+}
+ .imagesPresentation h4 {
+    font-family: 'Dancing Script' , cursive;
+    text-align: center
+    font-size : 1.8em;
+    margin: 15px;
+    font-weight: 300;
+ }
