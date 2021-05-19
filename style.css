@@ -175,5 +175,25 @@ footer {
 background-color: #524a3a;
 color: #fffae1;
 padding: 20px o 10px 0;
-text-align: center;
+text-align: center;.4.00.1
+}
+form {
+margin:auto;
+max-width: 900px;
+}
+input, textarea,button, {
+border:none;
+width:55%;
+padding: 15px 10px;
+margin: 1px 0;
+font-size: 1.2em;
+font-family: 'Advent Pro', sans-serif;
+border-radius: 8px;
+}
+textarea {
+    height:120px;
+}
+button {
+    font-size: 1.5em;
+    background-color: #fffae1;
 }
