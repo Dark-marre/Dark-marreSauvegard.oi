@@ -150,8 +150,30 @@ h3 {
     box-shadow: 6px 6px 28px -1px rgba(0, 0, 0, 0.75);
 }
 #AstuceDeSurvie p {
-width: 45px;
-width: 235px;
-float:right;
-margin: 50px -180px 0 0;
+    width: 45px;
+    width: 235px;
+    background-color: #01df74;
+    float:right;
+    margin: 50px -180px 0 0;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 15px;
+    box-shadow: 4px 4px 0 1px rgba(90,161,43,1.);
+}
+#AstuceDeSurvie #nourriture #construction #base #designeDeco {
+    float: right;
+}
+#nourriture p , #designeDeco p {
+float:left;
+background-color: cyan
+margin-left -180px;
+box-shadow: -4px 4px 0 1px rgba(15,154,156,1);
+}
+/* ****************************FOOTER********************************************** */
+
+footer {
+background-color: #524a3a;
+color: #fffae1;
+padding: 20px o 10px 0;
+text-align: center;
 }
