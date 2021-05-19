@@ -117,3 +117,27 @@ h3 {
     transform: scale(1.05);
     transition: 0.6s ease-in-out;
 }
+/* *****************************AstuceDeSurvie******************************** */
+#AstuceDeSurvie {
+height: 1400px;
+background-color: #f1f2f6;
+padding: 1px 2%;
+}
+#AstuceDeSurvie h2 {
+
+    padding-top: 60px;
+}
+#nourriture {
+background-image: url(media/20210331235059_1.JPG)
+}
+#construction {
+    background-image: url(media/20210331235629_1.JPG)
+}
+#base {
+    background-image: url(media/20210331235653_1.JPG)
+
+}
+#designeDeco {
+background-image: url(media/20210402104313_1.JPG)
+
+}
