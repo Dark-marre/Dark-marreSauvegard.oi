@@ -197,3 +197,26 @@ button {
     font-size: 1.5em;
     background-color: #fffae1;
 }
+button:hover {
+background-color: #e55039;
+color: #fffae1;
+cursor: pointer;
+transition: 0.3s ease-in-out;
+}
+#deuxiemeTrait {
+height: 1px
+width: 75%;
+background-color; #fffae1;
+margin: 60px auto;
+}
+
+#copyrightEtIcons {
+    display:flex;
+    margin-bottom: 20px;
+    padding: 10%;
+}
+#copyright (
+    width: 50%
+    text-align: left;
+    color: 
+)
